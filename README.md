@@ -15,7 +15,6 @@ Experienced Developer with vast IT experience. Skills include Serverless Computi
 
 - 🔭 I’m currently working on Coming Serverless tool
 - 💬 Ask me about **React, TypeScript, Svelte, GraphQL**
-- 📫 How to reach me **vitor.amaral@upstamps.com**
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vacom" alt="vacom" /> </p>
