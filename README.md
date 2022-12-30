@@ -9,12 +9,14 @@
 
 ### **About**
 
-Hey, I am a Full Stack Developer & Management and Information Programming from Portugal. I am a very dynamic and motivated professional with years of experience developing and managing projects from concept to completion.
+Hello! I am a highly skilled and motivated Full Stack Developer with a background in Management and Information Programming from Portugal. Throughout my career, I have developed and managed a range of projects from start to finish, demonstrating my adaptability and strong communication skills.
 
-Experienced Developer with vast IT experience. Skills include Serverless Computing, Cloud Management, Web Development (ex: React, Styled-Components, Svelte, etc), GraphQL APIs, Desktop Development (ex: Electron, WinForms, etc), Mobile Development (ex: React-Native and Flutter), Data Management and creative problem-solving. Able to apply UI/UX methodologies and communications concepts to improve customer and client services.
+I have a diverse set of technical skills, including expertise in Serverless Computing, Cloud Management, and various forms of web, desktop, and mobile development such as React, Styled-Components, Svelte, Electron, WinForms, and React-Native. In addition to these technical skills, I also have a strong understanding of UI/UX design principles and excellent problem-solving abilities.
 
 - 🔭 I’m currently working on Coming Serverless tool
 - 💬 Ask me about **React, TypeScript, Svelte, GraphQL**
+
+If you would like to learn more about my background and experience, please don't hesitate to contact me.
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vacom" alt="vacom" /> </p>
