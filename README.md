@@ -2,7 +2,7 @@
 
 ### **About**
 
-Hello! I am a highly skilled and motivated Full Stack Developer with a background in Management and Information Programming from Portugal. Throughout my career, I have developed and managed a range of projects from start to finish, demonstrating my adaptability and strong communication skills.
+Hello! I am a skilled and motivated Full Stack Developer with a background in Management and Information Programming from Portugal. Throughout my career, I have developed and managed a range of projects from start to finish, demonstrating my adaptability and strong communication skills.
 
 I have a diverse set of technical skills, including expertise in Serverless Computing, Cloud Management, and various forms of web, desktop, and mobile development such as React, Styled-Components, Svelte, Electron, WinForms, and React-Native. In addition to these technical skills, I also have a strong understanding of UI/UX design principles and excellent problem-solving abilities.
 
